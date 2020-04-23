@@ -1,1 +1,1 @@
-# School-Managment-system-simulator-
+# School-Managment-system-simulator
